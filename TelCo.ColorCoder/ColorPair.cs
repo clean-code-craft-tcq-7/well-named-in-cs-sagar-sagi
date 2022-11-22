@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing;
 
-namespace Assesment1
+namespace TelCo.ColorCoder
 {
     /// <summary>
     /// data type defined to hold the two colors of color pair
