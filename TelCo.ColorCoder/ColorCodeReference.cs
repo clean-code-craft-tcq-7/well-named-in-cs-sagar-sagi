@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
 
-namespace Assesment1
+namespace TelCo.ColorCoder
 {
     /// <summary>
     /// The 25-pair color code, originally known as even-count color code, 
