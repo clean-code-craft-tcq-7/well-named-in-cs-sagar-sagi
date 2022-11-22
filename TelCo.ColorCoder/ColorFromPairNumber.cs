@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Assesment1
+namespace TelCo.ColorCoder
 {
     /// <summary>
     /// This class provides the mapping of color to pair number.
